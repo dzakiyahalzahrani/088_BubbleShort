@@ -41,5 +41,13 @@ void bubbleSortArray() {
 	} while (pass <= n - 1);
 
 }
+void display() {
+	cout << endl;
+	cout << "=================================" << endl;
+	cout << "Element Array yang Telah tersusun" << endl;
+	cout << "=================================" << endl;
+	cout << endl;
+
+
 
 
