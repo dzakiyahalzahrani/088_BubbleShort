@@ -65,3 +65,9 @@ void display() {
 int main() {
 	input();
 
+	bubbleSortArray();
+	display();
+
+	return 0;
+}
+
