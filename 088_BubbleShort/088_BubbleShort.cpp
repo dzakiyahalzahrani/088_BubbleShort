@@ -6,7 +6,7 @@ int n;
 
 void input() {
 	while (true) {
-		cout << "Maukan banyaknya elemen pada array :";
+		cout << "Masukan banyaknya elemen pada array :";
 		cin >> n;
 		if (n <= 20)
 			break;
